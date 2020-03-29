@@ -1161,6 +1161,11 @@
 		<Product type="6100" id="6100" name="NZW97 2-Channel Outdoor Smart Plug" config="inovelli/nzw97.xml"/>
 	</Manufacturer>
 	<Manufacturer id="031E" name="Inovelli">
+		<Product type="0002" id="0001" name="LZW30-SN Switch Red Series" config="inovelli/lzw30-sn.xml"/>
+		<Product type="0001" id="0001" name="LZW31-SN Dimmer Red Series" config="inovelli/lzw31-sn.xml"/>
+		<Product type="0005" id="0001" name="LZW42 Multi-Color Bulb" config="inovelli/lzw42.xml"/>
+		<Product type="0006" id="0001" name="LZW41 Multi-White Bulb" config="inovelli/lzw41.xml"/>
+		<Product type="0007" id="0001" name="LZW40 Dimmable  Bulb" config="inovelli/lzw40.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0100" name="Insignia">
 	</Manufacturer>
